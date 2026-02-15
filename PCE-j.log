@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.9.21)  13 FEB 2026 11:14
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.9.21)  15 FEB 2026 10:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -106,8 +106,11 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 105.
-)
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2021/03/18 v5.0j Graphics/color driver for dvipdfmx
+))
 \Gin@req@height=\dimen166
 \Gin@req@width=\dimen167
 )
@@ -195,92 +198,119 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/overpic/overpic.sty
+Package: overpic 2020/02/22 1.3 picture overlays (RN)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count277
+\d@lta=\count278
+\@delta=\dimen177
+\@@delta=\dimen178
+\@gridcnt=\count279
+\@joinkind=\count280
+\@dotgap=\dimen179
+\@ddotgap=\dimen180
+\@x@diff=\count281
+\@y@diff=\count282
+\x@diff=\dimen181
+\y@diff=\dimen182
+\@dotbox=\box75
+\num@segments=\count283
+\num@segmentsi=\count284
+\@datafile=\read2
+)
+\OVP@box=\box76
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
-\l__pdf_internal_box=\box75
-\g__pdf_backend_object_int=\count277
-\l__pdf_backend_content_box=\box76
-\l__pdf_backend_model_box=\box77
-\g__pdf_backend_annotation_int=\count278
-\g__pdf_backend_link_int=\count279
-\g__pdf_backend_link_sf_int=\count280
+\l__pdf_internal_box=\box77
+\g__pdf_backend_object_int=\count285
+\l__pdf_backend_content_box=\box78
+\l__pdf_backend_model_box=\box79
+\g__pdf_backend_annotation_int=\count286
+\g__pdf_backend_link_int=\count287
+\g__pdf_backend_link_sf_int=\count288
 )
 (./PCE-j.aux)
 \openout1 = `PCE-j.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <8.8711> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 48.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <8.8711> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 48.
-LaTeX Font Info:    Calculating math sizes for size <8.8711> on input line 50.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 50.
+LaTeX Font Info:    Calculating math sizes for size <8.8711> on input line 52.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8.8711> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 50.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6.20973> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 50.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <4.43555> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 50.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <19.2207> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 72.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <19.2207> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 72.
-LaTeX Font Info:    Calculating math sizes for size <9.61035> on input line 72.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
+LaTeX Font Info:    Calculating math sizes for size <9.61035> on input line 74.
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9.61035> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 72.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6.7272> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 72.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <4.80518> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 72.
-LaTeX Font Info:    Calculating math sizes for size <11.82813> on input line 72
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
+LaTeX Font Info:    Calculating math sizes for size <11.82813> on input line 74
 .
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8.27965> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 72.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.91406> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 72.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.22882> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 72.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.22882> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 72.
-LaTeX Font Info:    Calculating math sizes for size <8.13184> on input line 72.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
+LaTeX Font Info:    Calculating math sizes for size <8.13184> on input line 74.
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8.13184> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 72.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.69225> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 72.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <4.06592> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 72.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <11.82813> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 74.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 76.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <11.82813> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 76.
  (I search kanjifont definition file: . . )
 (I search font definition file: . . . . . . . )
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-83.
+117.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
-3.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+17.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -288,95 +318,62 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 
 
 ]
-
-LaTeX Warning: Citation `Albadi2008' on page 2 undefined on input line 97.
-
-
-LaTeX Warning: Citation `Siano2014' on page 2 undefined on input line 97.
-
-
-LaTeX Warning: Citation `Palensky2011' on page 2 undefined on input line 97.
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9.61035> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 97.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 179.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9.61035> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 97.
-
-LaTeX Warning: Citation `CRIEPI_C18005' on page 2 undefined on input line 97.
-
-
-LaTeX Warning: Citation `Faia2021' on page 2 undefined on input line 97.
-
-
-LaTeX Warning: Citation `Ajagekar2019' on page 2 undefined on input line 97.
-
-
-LaTeX Warning: Citation `YoshiokaFQAOA2024' on page 2 undefined on input line 9
-7.
-
-
-LaTeX Warning: Reference `sec:introduction' on page 2 undefined on input line 9
-7.
-
-
-LaTeX Warning: Citation `CRIEPI_C18005' on page 2 undefined on input line 102.
-
-
-LaTeX Warning: Citation `YoshiokaFQAOA2024' on page 2 undefined on input line 1
-02.
-
-
-LaTeX Warning: Reference `fig:curve_compression' on page 2 undefined on input l
-ine 108.
-
-
-LaTeX Warning: Reference `fig:curve_compression' on page 2 undefined on input l
-ine 112.
-
-[2]
-
-LaTeX Warning: Citation `ems_opendata' on page 3 undefined on input line 159.
-
-
-LaTeX Warning: Citation `qulacs' on page 3 undefined on input line 242.
-
-
-LaTeX Warning: Citation `qulacs' on page 3 undefined on input line 250.
-
-[3]
-
-LaTeX Warning: Citation `Sciorilli2025PCE' on page 4 undefined on input line 31
-8.
-
-
-LaTeX Warning: Reference `fig:cost_convergence' on page 4 undefined on input li
-ne 344.
-
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 179.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <8.13184> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 367.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 212.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <8.13184> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 367.
-[4]
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 212.
+ [2]
+[3]
+File: figs//ite_process_time15_size20_warmstart.pdf Graphic file (type pdf)
+<figs//ite_process_time15_size20_warmstart.pdf>
 
-LaTeX Warning: Reference `fig:ite_process_warmstart' on page 5 undefined on inp
-ut line 396.
+Overfull \hbox (1.72952pt too wide) in paragraph at lines 474--495
+ [][] 
+ []
 
-
-LaTeX Warning: Reference `fig:curve_compression' on page 5 undefined on input l
-ine 422.
-
-[5] (./PCE-j.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+File: figs//greedy0_negawatt_std_stack_210nodes_rate0.5_iseed42_start11_end20_3
+fig.pdf Graphic file (type pdf)
+<figs//greedy0_negawatt_std_stack_210nodes_rate0.5_iseed42_start11_end20_3fig.p
+df>
+File: figs//pce_greedy_negawatt_std_stack_210nodes_rate0.5_iseed42_start11_end2
+0_3fig.pdf Graphic file (type pdf)
+<figs//pce_greedy_negawatt_std_stack_210nodes_rate0.5_iseed42_start11_end20_3fi
+g.pdf>
+File: figs//gurobi_negawatt_std_stack_210nodes_rate0.5_iseed42_start11_end20_3f
+ig.pdf Graphic file (type pdf)
+<figs//gurobi_negawatt_std_stack_210nodes_rate0.5_iseed42_start11_end20_3fig.pd
+f>
+[4] [5] (./PCE-j.bbl
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 6.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 11.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 17.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 32.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 45.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 51.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 66.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 72.
+LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
+(Font)              No change on input line 93.
+) [6] (./PCE-j.aux) ) 
 Here is how much of TeX's memory you used:
- 3102 strings out of 479466
- 41923 string characters out of 5870548
- 351637 words of memory out of 5000000
- 20751 multiletter control sequences out of 15000+600000
- 447055 words of font info for 213 fonts, out of 8000000 for 9000
+ 3394 strings out of 479466
+ 46787 string characters out of 5870548
+ 361506 words of memory out of 5000000
+ 21017 multiletter control sequences out of 15000+600000
+ 447399 words of font info for 214 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 68i,11n,74p,773b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,74p,575b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on PCE-j.dvi (5 pages, 44068 bytes).
+Output written on PCE-j.dvi (6 pages, 54448 bytes).

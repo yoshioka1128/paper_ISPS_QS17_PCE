@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PCE-j.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+I was expecting a `,' or a `}'---line 119 of file references.bib
+ : 
+ : @article{Hadfield2019,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 214 of file references.bib
+ : 
+ : %  note         = {Proposes warm-started PCE for TSP via QUBO-to-MaxCut reduction.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 225 of file references.bib
+ : 
+ : %  note         = {Compares PCE with alternative encodings in an engineering optimization context.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 236 of file references.bib
+ : 
+ : %  note         = {Evaluates PCE among other qubit-efficient encodings.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 247 of file references.bib
+ : 
+ : %  note         = {Places PCE in a broader geometric/compression context.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in CRIEPI_C18005
+Warning--there's a number but no volume in CRIEPI_C18005
+Warning--empty journal in Farhi2014QAOA
+Warning--empty journal in Soloviev2025Portfolio
+Warning--empty journal in Sciorilli2025LABS
+You've used 15 entries,
+            1791 wiz_defined-function locations,
+            543 strings with 6780 characters,
+and the built_in function-call counts, 3343 in all, are:
+= -- 253
+> -- 213
+< -- 2
++ -- 77
+- -- 62
+* -- 238
+:= -- 575
+add.period$ -- 46
+call.type$ -- 15
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 134
+empty$ -- 301
+format.name$ -- 62
+if$ -- 718
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 13
+newline$ -- 79
+num.names$ -- 15
+pop$ -- 43
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 62
+stack$ -- 0
+substring$ -- 152
+swap$ -- 22
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 25
+width$ -- 17
+write$ -- 161
+(There were 5 error messages)

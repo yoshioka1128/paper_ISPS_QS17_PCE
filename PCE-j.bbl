@@ -1,0 +1,95 @@
+\begin{thebibliography}{10}
+
+\bibitem{Albadi2008}
+M.H. Albadi and E.F. El-Saadany.
+\newblock A summary of demand response in electricity markets.
+\newblock {\em Electric Power Systems Research}, 78(11):1989--1996, 2008.
+
+\bibitem{Siano2014}
+Pierluigi Siano.
+\newblock Demand response and smart grids---a survey.
+\newblock {\em Renewable and Sustainable Energy Reviews}, 30:461--478, 2014.
+
+\bibitem{Palensky2011}
+Peter Palensky and Dietmar Dietrich.
+\newblock Demand side management: Demand response, intelligent energy systems,
+  and smart loads.
+\newblock {\em IEEE Transactions on Industrial Informatics}, 7(3):381--388,
+  2011.
+
+\bibitem{CRIEPI_C18005}
+Tsuyoya Tsurumi and Kenichi Syoji.
+\newblock A design method for electric power demand portfolio and its basic
+  investigation -- proposition of a method for a resource aggregator to procure
+  negawatt effectively --.
+\newblock (C18005), 2019.
+\newblock CRIEPI Technical Report.
+
+\bibitem{Faia2021}
+Ricardo Faia, Tiago Pinto, Zita Vale, and Juan~Manuel Corchado.
+\newblock Portfolio optimization of electricity markets participation using
+  forecasting error in risk formulation.
+\newblock {\em International Journal of Electrical Power and Energy Systems},
+  129:106739, 2021.
+
+\bibitem{Farhi2014QAOA}
+Edward Farhi, Jeffrey Goldstone, and Sam Gutmann.
+\newblock A quantum approximate optimization algorithm.
+\newblock 2014.
+
+\bibitem{Hadfield2019}
+Stuart Hadfield, Zhihui Wang, Bryan O'Gorman, Eleanor~G. Rieffel, Davide
+  Venturelli, and Rupak Biswas.
+\newblock From the quantum approximate optimization algorithm to a quantum
+  alternating operator ansatz.
+\newblock {\em Algorithms}, 12(2), 2019.
+
+\bibitem{Sciorilli2025PCE}
+Marco Sciorilli, Lucas Borges, Taylor~L. Patti, Diego Garc\'{\i}a-Mart\'{\i}n,
+  Giancarlo Camilo, Anima Anandkumar, and Leandro Aolita.
+\newblock Towards large-scale quantum optimization solvers with few qubits.
+\newblock {\em Nature Communications}, 16:476, 2025.
+
+\bibitem{Soloviev2025Portfolio}
+V.~P. Soloviev and M.~Krompiec.
+\newblock Large-scale portfolio optimization using pauli correlation encoding.
+\newblock 2025.
+
+\bibitem{Sciorilli2025LABS}
+M.~Sciorilli, G.~Camilo, T.~O. Maciel, and A.~Canabarro.
+\newblock A competitive nisq and qubit-efficient solver for the labs problem.
+\newblock 2025.
+
+\bibitem{doCarmo2026WarmPCE}
+R.~S. do~Carmo, R.~G. dos Reis, and S.~F.~F. Silva.
+\newblock Warm-starting pce for traveling salesman problem.
+\newblock {\em Brazilian Journal of Optimization}, 12:45--67, 2026.
+
+\bibitem{YoshiokaFQAOA2024}
+Takuya Yoshioka, Keita Sasada, Yuichiro Nakano, and Keisuke Fujii.
+\newblock Electric power demand portfolio optimization by fermionic qaoa with
+  self-consistent local field modulation.
+\newblock In {\em 2024 IEEE International Conference on Quantum Computing and
+  Engineering (QCE)}, volume~01, pages 469--475, 2024.
+
+\bibitem{ems_opendata}
+{Sustainable open Invation Initiative}.
+\newblock Energy management system.
+\newblock https://www.ems-opendata.jp, 2026.
+
+\bibitem{gurobi}
+{Gurobi Optimization, LLC}.
+\newblock Gurobi optimizer reference manual.
+\newblock \url{https://www.gurobi.com}, 2026.
+
+\bibitem{qulacs}
+Yasunari Suzuki, Yoshiaki Kawase, Yuya Masumura, Yuria Hiraga, Masahiro
+  Nakadai, Jiabao Chen, Ken~M. Nakanishi, Kosuke Mitarai, Ryosuke Imai, Shiro
+  Tamiya, Takahiro Yamamoto, Tennin Yan, Toru Kawakubo, Yuya~O. Nakagawa, Yohei
+  Ibe, Youyuan Zhang, Hirotsugu Yamashita, Hikaru Yoshimura, Akihiro Hayashi,
+  and Keisuke Fujii.
+\newblock Qulacs: a fast and versatile quantum circuit simulator for research
+  purpose.
+\newblock {\em {Quantum}}, 5:559, October 2021.
+
+\end{thebibliography}
